@@ -1,0 +1,27 @@
+{
+  "name": "nodemqtt",
+  "version": "0.1.0",
+  "description": "MQTT server implemented in JavaScript",
+  "main": "nodemqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrad/nodemqtt.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Mark Radbourne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markrad/nodemqtt/issues"
+  },
+  "homepage": "https://github.com/markrad/nodemqtt#readme",
+  "dependencies": {
+    "aedes": "^0.46.0",
+    "commander": "^7.2.0",
+    "log4js": "^6.3.0"
+  }
+}
